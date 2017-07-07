@@ -198,6 +198,8 @@ else if ($argv[1] == 'migrate') {
     }
   }
 
+  //Нечто новое и замечательное
+
   if ($found_new) {
     echo "Migration complete.\n";
   }
