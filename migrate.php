@@ -204,6 +204,8 @@ else if ($argv[1] == 'migrate') {
   else {
     echo "Your database is up-to-date.\n";
   }
+
+  //немного изменили код
 }
 
 if (!@DEBUG) {
